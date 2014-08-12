@@ -1,0 +1,25 @@
+{
+  "name": "qrcode",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "./src/index.js",
+  "repository": "git://github.com/Administrator/qrcode.git",
+  "keywords": [
+    "qrcode"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "panyifei",
+    "email": "981909093@qq.com"
+  },
+  "bugs": {
+    "url": "http://github.com/Administrator/qrcode/issues"
+  },
+  "homepage": "http://github.com/Administrator/qrcode",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {
+    "jquery": "^1.9.1"
+  }
+}
