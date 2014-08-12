@@ -31,6 +31,6 @@ Simply list arguments
 -->
 - selector `String` a selector by jquery
 - options `object` description of the task
-    -render `String` choose which style to show the result,you can choose from "table" and "canvas"
-    -text `String` the message you want to hide in the qrcode
+    - render `String` choose which style to show the result,you can choose from "table" and "canvas"
+    - text `String` the message you want to hide in the qrcode
 	
